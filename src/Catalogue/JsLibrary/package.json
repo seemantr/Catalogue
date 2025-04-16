@@ -21,7 +21,7 @@
     "markdown-it-deflist": "2.0.1",
     "markdown-it-table-of-contents": "^0.2.0",
     "markdown-it-container": "^2.0.0",
-    "handlebars": "4.0.5",
+    "handlebars": "4.7.7",
     "lunr": "^0.7.0"
   },
   "devDependencies": { }
